@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Danilo Marcos da Silva Ferracini
-- 👀 I’m interested in playing basketball
-- 🌱 I’m currently learning how to play basketball
-- 💞️ I’m looking to collaborate on my house
-- 📫 How to reach me danilo.ferracini@escola.pr.gov.br
-- 1d
+- 👋 Olá, eu sou @Danilo Marcos da Silva Ferracini
+- 👀 Eu me interesso em jogar basquete
+- 🌱 No momento estou aprendendo a jogar basquete
+- 💞️ Procuro colaborar em minha casa
+- 📫 Como me contatar danilo.ferracini@escola.pr.gov.br
+- Estudante do 1° ano D
